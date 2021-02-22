@@ -1,3 +1,0 @@
-FROM centos
-
-RUN yum install python3 -y
