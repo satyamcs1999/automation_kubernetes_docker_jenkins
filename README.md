@@ -348,7 +348,7 @@ git branch -M main
 <h3>LinkedIn Profile</h3>
 https://www.linkedin.com/in/satyam-singh-95a266182
 
-<h2>Link to the repository mentioned above</h2>
+<h3>Link to the repository mentioned above</h3>
 https://github.com/satyamcs1999/devops_task3.git
 
 
