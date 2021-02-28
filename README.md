@@ -335,7 +335,7 @@ RUN yum install ruby -y
 <br>
 <p align="center"><b>. . .</b></p><br>
 <h2>[Update]:</h2>
-<p>In GitHub, master branch has been renamed to main branch, therefore before pushing the code to the GitHub repository, branch could be switched from master to main using the command mentioned below:</p><br>
+<p>In GitHub, <b>master</b> branch has been renamed to <b>main</b> branch, therefore before pushing the code to the GitHub repository, branch could be switched from master to main using the command mentioned below:</p><br>
 
 ```shell
 git branch -M main
